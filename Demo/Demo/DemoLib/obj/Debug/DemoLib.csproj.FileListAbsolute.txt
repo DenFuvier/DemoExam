@@ -1,0 +1,6 @@
+C:\Users\Finda\Source\Repos\testRepo\Demo\Demo\DemoLib\bin\Debug\DemoLib.dll
+C:\Users\Finda\Source\Repos\testRepo\Demo\Demo\DemoLib\bin\Debug\DemoLib.pdb
+C:\Users\Finda\Source\Repos\testRepo\Demo\Demo\DemoLib\obj\Debug\DemoLib.csproj.AssemblyReference.cache
+C:\Users\Finda\Source\Repos\testRepo\Demo\Demo\DemoLib\obj\Debug\DemoLib.csproj.CoreCompileInputs.cache
+C:\Users\Finda\Source\Repos\testRepo\Demo\Demo\DemoLib\obj\Debug\DemoLib.dll
+C:\Users\Finda\Source\Repos\testRepo\Demo\Demo\DemoLib\obj\Debug\DemoLib.pdb

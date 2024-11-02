@@ -1,0 +1,11 @@
+C:\Users\Finda\Source\Repos\testRepo\Demo\Demo\DemoUIComponents\bin\Debug\DemoUIComponents.dll
+C:\Users\Finda\Source\Repos\testRepo\Demo\Demo\DemoUIComponents\bin\Debug\DemoUIComponents.pdb
+C:\Users\Finda\Source\Repos\testRepo\Demo\Demo\DemoUIComponents\bin\Debug\DemoLib.dll
+C:\Users\Finda\Source\Repos\testRepo\Demo\Demo\DemoUIComponents\bin\Debug\DemoLib.pdb
+C:\Users\Finda\Source\Repos\testRepo\Demo\Demo\DemoUIComponents\obj\Debug\DemoUIComponents.csproj.AssemblyReference.cache
+C:\Users\Finda\Source\Repos\testRepo\Demo\Demo\DemoUIComponents\obj\Debug\DemoUIComponents.ClientControl.resources
+C:\Users\Finda\Source\Repos\testRepo\Demo\Demo\DemoUIComponents\obj\Debug\DemoUIComponents.csproj.GenerateResource.cache
+C:\Users\Finda\Source\Repos\testRepo\Demo\Demo\DemoUIComponents\obj\Debug\DemoUIComponents.csproj.CoreCompileInputs.cache
+C:\Users\Finda\Source\Repos\testRepo\Demo\Demo\DemoUIComponents\obj\Debug\DemoUICo.2701747B.Up2Date
+C:\Users\Finda\Source\Repos\testRepo\Demo\Demo\DemoUIComponents\obj\Debug\DemoUIComponents.dll
+C:\Users\Finda\Source\Repos\testRepo\Demo\Demo\DemoUIComponents\obj\Debug\DemoUIComponents.pdb

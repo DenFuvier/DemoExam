@@ -1,0 +1,16 @@
+C:\Users\Finda\Source\Repos\testRepo\Demo\Demo\DemoWin\bin\Debug\Demo.exe.config
+C:\Users\Finda\Source\Repos\testRepo\Demo\Demo\DemoWin\bin\Debug\Demo.exe
+C:\Users\Finda\Source\Repos\testRepo\Demo\Demo\DemoWin\bin\Debug\Demo.pdb
+C:\Users\Finda\Source\Repos\testRepo\Demo\Demo\DemoWin\bin\Debug\DemoLib.dll
+C:\Users\Finda\Source\Repos\testRepo\Demo\Demo\DemoWin\bin\Debug\DemoUIComponents.dll
+C:\Users\Finda\Source\Repos\testRepo\Demo\Demo\DemoWin\bin\Debug\DemoLib.pdb
+C:\Users\Finda\Source\Repos\testRepo\Demo\Demo\DemoWin\bin\Debug\DemoUIComponents.pdb
+C:\Users\Finda\Source\Repos\testRepo\Demo\Demo\DemoWin\obj\Debug\DemoWin.csproj.AssemblyReference.cache
+C:\Users\Finda\Source\Repos\testRepo\Demo\Demo\DemoWin\obj\Debug\Demo.ClientInfo.resources
+C:\Users\Finda\Source\Repos\testRepo\Demo\Demo\DemoWin\obj\Debug\Demo.MainForm.resources
+C:\Users\Finda\Source\Repos\testRepo\Demo\Demo\DemoWin\obj\Debug\Demo.Properties.Resources.resources
+C:\Users\Finda\Source\Repos\testRepo\Demo\Demo\DemoWin\obj\Debug\DemoWin.csproj.GenerateResource.cache
+C:\Users\Finda\Source\Repos\testRepo\Demo\Demo\DemoWin\obj\Debug\DemoWin.csproj.CoreCompileInputs.cache
+C:\Users\Finda\Source\Repos\testRepo\Demo\Demo\DemoWin\obj\Debug\DemoWin.csproj.Up2Date
+C:\Users\Finda\Source\Repos\testRepo\Demo\Demo\DemoWin\obj\Debug\Demo.exe
+C:\Users\Finda\Source\Repos\testRepo\Demo\Demo\DemoWin\obj\Debug\Demo.pdb
